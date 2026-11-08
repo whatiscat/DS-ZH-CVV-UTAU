@@ -3,8 +3,8 @@ author: whatiscat
 singer_type: utau
 text_file_encoding: utf-8
 voice: www.deepseek.com
-web: www.whatiscat.org
-version: 0.0.1
+web: www.whatiscat.org;https://github.com/whatiscat/DS-ZH-CVV-UTAU;https://space.bilibili.com/3493110348778082
+version: 0.0.2
 image: 05-chibi-blue-maid.png
 portrait: 05-chibi-blue-maid-2.png
 sample: 试听_Track1.wav
