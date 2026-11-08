@@ -1,0 +1,5 @@
+name=DeepSeekTTS-ZH-CVV
+author=whatiscat
+web=www.whatiscat.org
+image=05-chibi-blue-maid.png
+sample=试听_Track1.wav
